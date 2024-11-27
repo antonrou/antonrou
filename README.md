@@ -19,6 +19,3 @@ I enjoy building intuitive software, exploring innovative ideas, and creating so
 - **Other Skills**: AI & Machine Learning, Data Visualization, Distributed Systems.
 
 ---
-
-## 📈 GitHub Stats
-![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=antonrou
