@@ -21,4 +21,4 @@ I enjoy building intuitive software, exploring innovative ideas, and creating so
 ---
 
 ## 📈 GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=antonrou
+![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=antonrou
