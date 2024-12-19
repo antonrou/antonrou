@@ -16,6 +16,5 @@ I enjoy building intuitive software, exploring innovative ideas, and creating so
 ## 🔧 Tech Stack
 - **Languages**: Python, Java, C++, HTML, CSS, JavaScript.
 - **Frameworks & Tools**: Flask, Unreal Engine Editor for Fortnite, R, MATLAB, Linux/macOS
-- **Other Skills**: AI & Machine Learning, Data Visualization, Distributed Systems.
 
 ---
