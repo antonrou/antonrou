@@ -7,7 +7,7 @@ I enjoy building intuitive software, exploring innovative ideas, and creating so
 
 ## 🛠️ About Me
 - 🎓 **Currently**: 2nd-year Honors Computing Science student at the University of Alberta.
-- 🌟 **Interests**: Artificial Intelligence, Cognitive Science, Human-Computer Interaction, Game Development.
+- 🌟 **Interests**: Artificial Intelligence, Machine Learning Cognitive Science
 - 🔬 **Current Focus**: Exploring the intersection of psychology and technology to design better user experiences.
 - 📫 **Reach Me**: [https://www.linkedin.com/in/antonrou/]
 
@@ -15,7 +15,7 @@ I enjoy building intuitive software, exploring innovative ideas, and creating so
 
 ## 🔧 Tech Stack
 - **Languages**: Python, Java, C++, HTML, CSS, JavaScript.
-- **Frameworks & Tools**: Flask, Unreal Engine Editor for Fortnite, R, MATLAB.
+- **Frameworks & Tools**: Flask, Unreal Engine Editor for Fortnite, R, MATLAB, Linux/macOS
 - **Other Skills**: AI & Machine Learning, Data Visualization, Distributed Systems.
 
 ---
