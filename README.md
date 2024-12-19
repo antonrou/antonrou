@@ -7,7 +7,7 @@ I enjoy building intuitive software, exploring innovative ideas, and creating so
 
 ## 🛠️ About Me
 - 🎓 **Currently**: 2nd-year Honors Computing Science student at the University of Alberta.
-- 🌟 **Interests**: Artificial Intelligence, Machine Learning Cognitive Science
+- 🌟 **Interests**: Artificial Intelligence, Machine Learning, Cognitive Science
 - 🔬 **Current Focus**: Exploring the intersection of psychology and technology to design better user experiences.
 - 📫 **Reach Me**: [https://www.linkedin.com/in/antonrou/]
 
