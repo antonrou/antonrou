@@ -6,13 +6,13 @@ I enjoy building intuitive software, exploring innovative ideas, and creating so
 ---
 
 ## 🛠️ About Me
-- 🎓 **Currently**: 2nd-year Honors Computing Science student at the University of Alberta.
+- 🎓 **Currently**: 3rd-year Honors Computing Science student at the University of Alberta.
 - 📫 **Reach Me**: [https://www.linkedin.com/in/antonrou/]
 
 ---
 
 ## 🔧 Tech Stack
-- **Languages**: Python, Java, C++, HTML, CSS, JavaScript.
+- **Languages**: C#, JavaScript, Python, Java.
 - **Frameworks & Tools**: Flask, Unreal Engine Editor for Fortnite, R, MATLAB, Linux/macOS
 
 ---
